@@ -1,2 +1,4 @@
 # hello-world
-repo for learning git
+Hello!
+
+This repo is going to be used by me for learning how to use git.
